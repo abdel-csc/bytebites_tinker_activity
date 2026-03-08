@@ -1,4 +1,3 @@
-# Refined ByteBites UML Class Diagram
 
 +----------------+
 |   Customer     |
