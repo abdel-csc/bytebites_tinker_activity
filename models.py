@@ -24,7 +24,7 @@ class Menu:
         self.items = []  # list of MenuItem objects
 
     def filter_by_category(self, category):
-        pass  # to be implemented in Part 3
+        return [item for item in self.items if item.category == category]
 
 
 class Order:
